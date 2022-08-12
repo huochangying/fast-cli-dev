@@ -19,5 +19,8 @@
   "dependencies": {
     "@fast-cli-dev/utils": "^1.0.4"
   },
-  "gitHead": "db70aa6cf5b54ad049f05b779c666910b754ea28"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "01b3378cd65794a544808a9de5a0132539b53460"
 }
