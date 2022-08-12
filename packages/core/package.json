@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@fast-cli-dev/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "951722cfc61691215dcefe60b58414e64794aa94"
 }
