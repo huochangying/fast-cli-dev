@@ -1,0 +1,22 @@
+{
+  "name": "@fast-cli-dev/core",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "GRANDSOFT\\huocy <huocy@glodon.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  },
+  "dependencies": {
+    "@fast-cli-dev/utils": "^1.0.0"
+  }
+}
