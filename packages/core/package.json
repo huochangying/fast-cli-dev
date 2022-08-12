@@ -1,6 +1,6 @@
 {
   "name": "@fast-cli-dev/core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "> TODO: description",
   "author": "GRANDSOFT\\huocy <huocy@glodon.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@fast-cli-dev/utils": "^1.0.4"
+    "@fast-cli-dev/utils": "^1.0.5"
   },
   "publishConfig": {
     "access": "public"
