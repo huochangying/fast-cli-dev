@@ -1,6 +1,6 @@
 {
   "name": "@fast-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "GRANDSOFT\\huocy <huocy@glodon.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@fast-cli-dev/utils": "^1.0.2"
+    "@fast-cli-dev/utils": "^1.0.3"
   },
   "gitHead": "843af5963d3edf558031fec7aeacfcf200e8cbfa"
 }
